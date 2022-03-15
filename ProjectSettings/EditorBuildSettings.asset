@@ -12,6 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: d6ad242b8d075184f85183293c261ffd
   - enabled: 1
+    path: Assets/Scenes/Frutas_Juego_1.unity
     guid: 4db6b6675cc32fd4680620a91bb2654d
   - enabled: 1
     path: Assets/Scenes/Registro.unity
