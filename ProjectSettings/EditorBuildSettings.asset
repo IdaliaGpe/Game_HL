@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: d6ad242b8d075184f85183293c261ffd
   - enabled: 1
-    path: Assets/Scenes/Frutas_Juego_1.unity
+    path: Assets/Scenes/Frutas_Juego 1.unity
     guid: 4db6b6675cc32fd4680620a91bb2654d
   - enabled: 1
     path: Assets/Scenes/Registro.unity
@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Registro 2.unity
     guid: ab0f5a593e890b9428f47189ca1c6b12
+  - enabled: 1
+    path: Assets/Scenes/Frutas_Juego_2.unity
+    guid: 69fbeeed46edd814087fca0f0285ae48
   m_configObjects: {}
