@@ -38,4 +38,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Frutas5.unity
     guid: 1894ddc6ce2ffe04e88ea87fb9299da8
+  - enabled: 1
+    path: Assets/Scenes/Ani2.unity
+    guid: 7ebf3616dc4518e4fa30bc7ddd0bed74
+  - enabled: 1
+    path: Assets/Scenes/Ani1.unity
+    guid: dcc5f05f817238a42a76c8e0dd8081ee
+  - enabled: 1
+    path: Assets/Scenes/Ani4.unity
+    guid: 57a4f32bb3a61fb4b88675e9b78d79f7
+  - enabled: 1
+    path: Assets/Scenes/Ani3.unity
+    guid: 85e5597eb1cfbdc4a8b46737b90000c2
+  - enabled: 1
+    path: Assets/Scenes/Ani5.unity
+    guid: 67d3b8684bb46dc44ae9dcfa8dab0b85
   m_configObjects: {}
