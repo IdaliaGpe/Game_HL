@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f82ddc1897a4b60468214c9468cd180d, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: "\xBFQu\xE9 color es?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: fd97352d3298155439df11ae15fa99d7, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Green
+    - Red
+    - Blue
+    correctAns: Green
+  - questionInfo: "\xBFQu\xE9 color es?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: d1d55dbd62483c740aee8acb2b6bfe02, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Green
+    - Red
+    - Blue
+    correctAns: Blue
+  - questionInfo: "\xBFQu\xE9 color es?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: a3c2b9c156f0d34439ec0117cbcef936, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pink
+    - Yellow
+    - Blue
+    correctAns: Yellow
+  - questionInfo: "\xBFQu\xE9 color es?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 314f9ec84e20c614189f351c09bff8d4, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pink
+    - Yellow
+    - Blue
+    correctAns: Pink
+  - questionInfo: "\xBFQu\xE9 color es?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: b84c54a79bbdc35428816f6fe626688f, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pink
+    - Yellow
+    - Red
+    correctAns: Red

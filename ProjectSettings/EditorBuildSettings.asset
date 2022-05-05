@@ -5,24 +5,21 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Inicio.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: d6ad242b8d075184f85183293c261ffd
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Registro.unity
     guid: 69c0c09ca3fff11478a5eb5cb713517f
   - enabled: 1
     path: Assets/Scenes/Registro 2.unity
     guid: ab0f5a593e890b9428f47189ca1c6b12
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Frutas1.unity
     guid: 4058fea25ea2a0d4982345da1e3f2a52
@@ -68,4 +65,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Num5.unity
     guid: 38b7cb6025981534b8efcb9467535ebf
+  - enabled: 1
+    path: Assets/Scenes/Col1.unity
+    guid: ddec159d360f53a42b93d6446842370e
+  - enabled: 1
+    path: Assets/Scenes/Col2.unity
+    guid: 6aaf4c0cfb5a24f4ebe240616aa30786
+  - enabled: 1
+    path: Assets/Scenes/Col3.unity
+    guid: e3caee45d71f60f478b54bc595b6474a
+  - enabled: 1
+    path: Assets/Scenes/Col4.unity
+    guid: bc526b50f6b56754f9b43e59c0c4919e
+  - enabled: 1
+    path: Assets/Scenes/Col5.unity
+    guid: ee15805195bef454486fc0fa91b75d8d
   m_configObjects: {}
