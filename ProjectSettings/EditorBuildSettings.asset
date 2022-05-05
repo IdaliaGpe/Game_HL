@@ -11,19 +11,31 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: d6ad242b8d075184f85183293c261ffd
-  - enabled: 1
-    path: Assets/Scenes/Frutas_Juego 1.unity
-    guid: 4db6b6675cc32fd4680620a91bb2654d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Registro.unity
     guid: 69c0c09ca3fff11478a5eb5cb713517f
   - enabled: 1
     path: Assets/Scenes/Registro 2.unity
     guid: ab0f5a593e890b9428f47189ca1c6b12
-  - enabled: 1
-    path: Assets/Scenes/Frutas_Juego_2.unity
-    guid: 69fbeeed46edd814087fca0f0285ae48
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Frutas1.unity
     guid: 4058fea25ea2a0d4982345da1e3f2a52
+  - enabled: 1
+    path: Assets/Scenes/Frutas2.unity
+    guid: f98e556431377ea488b41ba70083ffae
+  - enabled: 1
+    path: Assets/Scenes/Frutas3.unity
+    guid: 463f9de8afc849b4b924221709bde71c
+  - enabled: 1
+    path: Assets/Scenes/Frutas4.unity
+    guid: f92b523eb5431aa4cbcd0314bb72abb2
+  - enabled: 1
+    path: Assets/Scenes/Frutas5.unity
+    guid: 1894ddc6ce2ffe04e88ea87fb9299da8
   m_configObjects: {}
