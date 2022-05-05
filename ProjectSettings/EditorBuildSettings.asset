@@ -80,4 +80,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Col5.unity
     guid: ee15805195bef454486fc0fa91b75d8d
+  - enabled: 1
+    path: Assets/Scenes/Pro1.unity
+    guid: 245ebf20cafe30a4783427cfde8b1ca0
+  - enabled: 1
+    path: Assets/Scenes/Pro2.unity
+    guid: bab32a44b38596647a500cfec4728307
+  - enabled: 1
+    path: Assets/Scenes/Pro3.unity
+    guid: de500f6dcbb087a48b138a7cb08b69b8
+  - enabled: 1
+    path: Assets/Scenes/Pro4.unity
+    guid: 9e34d2159a3a507499ebc08a7330d9e1
+  - enabled: 1
+    path: Assets/Scenes/Pro5.unity
+    guid: 9e25a81c4164be9499f4259519b9524b
   m_configObjects: {}
