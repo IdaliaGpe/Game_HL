@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f82ddc1897a4b60468214c9468cd180d, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: ' Select the correct option'
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: a1fb3020b02fa9c478aeb01a5b6ac7d8, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - You
+    - She
+    - We
+    - I
+    correctAns: She
+  - questionInfo: ' Select the correct option'
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: e7a3c9c466a111041a756173cf475de3, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - You
+    - She
+    - We
+    - I
+    correctAns: We
+  - questionInfo: ' Select the correct option'
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 4836da62735704c44995ac0a73dbd23f, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - You
+    - She
+    - We
+    - It
+    correctAns: You
+  - questionInfo: ' Select the correct option'
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: a77cf66581e5b39478e59b1be3c0bbb2, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - You
+    - She
+    - We
+    - It
+    correctAns: It
+  - questionInfo: ' Select the correct option'
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: b535d17f357efd24eaa39a142e1d55bb, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - You
+    - They
+    - We
+    - It
+    correctAns: They

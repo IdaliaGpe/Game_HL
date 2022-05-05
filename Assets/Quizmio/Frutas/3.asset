@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 3
   m_EditorClassIdentifier: 
   questions:
-  - questionInfo: "\xBFC\xF3mo se llama esta fruta en ingl\xE9s?"
+  - questionInfo: What is this fruit called in English?
     questionType: 1
     questionImage: {fileID: 21300000, guid: 7d80bcdffc5fcf649bb9d7cd8de9b003, type: 3}
     audioClip: {fileID: 0}
@@ -24,7 +24,7 @@ MonoBehaviour:
     - Apple
     - Orange
     correctAns: Watermelon
-  - questionInfo: "\xBFC\xF3mo se llama esta fruta en ingl\xE9s?"
+  - questionInfo: What is this fruit called in English?
     questionType: 1
     questionImage: {fileID: 21300000, guid: 05ef71d65443e9c44ac8ea1e3db1adb3, type: 3}
     audioClip: {fileID: 0}
@@ -35,7 +35,7 @@ MonoBehaviour:
     - Apple
     - Orange
     correctAns: Orange
-  - questionInfo: "\xBFC\xF3mo se llama esta fruta en ingl\xE9s?"
+  - questionInfo: What is this fruit called in English?
     questionType: 1
     questionImage: {fileID: 21300000, guid: 33ac874c5da82ea4d8ad7572fa9a26ca, type: 3}
     audioClip: {fileID: 0}
@@ -46,7 +46,7 @@ MonoBehaviour:
     - Lemon
     - Orange
     correctAns: Lemon
-  - questionInfo: "\xBFC\xF3mo se llama esta fruta en ingl\xE9s?"
+  - questionInfo: What is this fruit called in English?
     questionType: 1
     questionImage: {fileID: 21300000, guid: 5ed664df5034e114793d9052b54d43d4, type: 3}
     audioClip: {fileID: 0}
@@ -57,7 +57,7 @@ MonoBehaviour:
     - Lemon
     - Orange
     correctAns: Kiwi
-  - questionInfo: "\xBFC\xF3mo se llama esta fruta en ingl\xE9s?"
+  - questionInfo: What is this fruit called in English?
     questionType: 1
     questionImage: {fileID: 21300000, guid: 24e683a4550ad4d459b957d334322cb3, type: 3}
     audioClip: {fileID: 0}
@@ -68,7 +68,7 @@ MonoBehaviour:
     - Lemon
     - Orange
     correctAns: Apple
-  - questionInfo: "\xBFC\xF3mo se llama esta fruta en ingl\xE9s?"
+  - questionInfo: What is this fruit called in English?
     questionType: 1
     questionImage: {fileID: 21300000, guid: 02b4ae89d0e081c4f8d6ae80fc0addd2, type: 3}
     audioClip: {fileID: 0}

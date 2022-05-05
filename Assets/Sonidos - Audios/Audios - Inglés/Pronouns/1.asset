@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f82ddc1897a4b60468214c9468cd180d, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: "Selecciona la opci\xF3n correcta"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 2b908c10e73a52747903178dd2942d01, type: 3}
+    audioClip: {fileID: 8300000, guid: f7c7edb14b18f7547899147ef934c9a3, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - He
+    - She
+    correctAns: He
+  - questionInfo: "Selecciona la opci\xF3n correcta"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 2b908c10e73a52747903178dd2942d01, type: 3}
+    audioClip: {fileID: 8300000, guid: 85f095f344df34d47aacbda36f374c2e, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - I
+    - She
+    correctAns: I
+  - questionInfo: "Selecciona la opci\xF3n correcta"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 2b908c10e73a52747903178dd2942d01, type: 3}
+    audioClip: {fileID: 8300000, guid: 4836da62735704c44995ac0a73dbd23f, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - I
+    - You
+    correctAns: You
+  - questionInfo: "Selecciona la opci\xF3n correcta"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 2b908c10e73a52747903178dd2942d01, type: 3}
+    audioClip: {fileID: 8300000, guid: a1fb3020b02fa9c478aeb01a5b6ac7d8, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - She
+    - You
+    correctAns: She
+  - questionInfo: "Selecciona la opci\xF3n correcta"
+    questionType: 2
+    questionImage: {fileID: 21300000, guid: 2b908c10e73a52747903178dd2942d01, type: 3}
+    audioClip: {fileID: 8300000, guid: e7a3c9c466a111041a756173cf475de3, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - She
+    - We
+    correctAns: We
