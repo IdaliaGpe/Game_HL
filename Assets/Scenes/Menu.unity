@@ -2031,7 +2031,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 223158882}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1901906422}
+        m_TargetAssemblyTypeName: Botones, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Rop4
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &223158882
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2941,7 +2953,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 365313082}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1901906422}
+        m_TargetAssemblyTypeName: Botones, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Rop3
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &365313082
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3373,7 +3397,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 413449691}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1901906422}
+        m_TargetAssemblyTypeName: Botones, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Rop2
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &413449691
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7264,7 +7300,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1492756209}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1901906422}
+        m_TargetAssemblyTypeName: Botones, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Rop5
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1492756209
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7546,7 +7594,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1528648343}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1901906422}
+        m_TargetAssemblyTypeName: Botones, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Rop1
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1528648343
 MonoBehaviour:
   m_ObjectHideFlags: 0
